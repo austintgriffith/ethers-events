@@ -1,0 +1,23 @@
+{
+  "name": "ethers-events",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "simple event indexer for BG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austintgriffith/ethers-events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austintgriffith/ethers-events/issues"
+  },
+  "homepage": "https://github.com/austintgriffith/ethers-events#readme",
+  "dependencies": {
+    "ethers": "^5.5.4"
+  }
+}
